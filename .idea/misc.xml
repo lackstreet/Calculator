@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/abref/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/abref/Desktop/Calculator/app/src/main/res/drawable/circle.xml" value="0.1215" />
-        <entry key="..\:/Users/abref/Desktop/Calculator/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/abref/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/app_backgroud.xml" value="0.1" />
+        <entry key="..\:/Users/abref/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/abref/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/circle1.xml" value="0.1" />
+        <entry key="..\:/Users/abref/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/clssimbolo.xml" value="0.2335" />
+        <entry key="..\:/Users/abref/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/normaldigits.xml" value="0.165" />
+        <entry key="..\:/Users/abref/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/simboli.xml" value="0.1" />
+        <entry key="..\:/Users/abref/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>

@@ -13,7 +13,7 @@
     <string name="eight">8</string>
     <string name="nine">9</string>
 
-    <string name="cls">C</string>
+    <string name="cls">AC</string>
     <string name="exp">√</string>
     <string name="parentesi">( )</string>
     <string name="div">÷</string>
@@ -24,7 +24,7 @@
     <string name="virgola">.</string>
     <string name="equals">=</string>
 
-    <string name="spazio">  </string>
+    <string name="spazio"> </string>
     <string name="display">Inserisci Un Valore</string>
 
 
